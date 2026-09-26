@@ -1,0 +1,2 @@
+# Keep the root compatibility launcher consistent across platforms.
+app.py text eol=lf
